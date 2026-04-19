@@ -1,9 +1,15 @@
 # 🚀 Poll Results Visualization Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge\&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge\&logo=streamlit)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive-blueviolet?style=for-the-badge\&logo=plotly)
-![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge&logo=plotly)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit)
+![WordCloud](https://img.shields.io/badge/WordCloud-Text%20Visualization-00C853?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)
 
 ---
 
