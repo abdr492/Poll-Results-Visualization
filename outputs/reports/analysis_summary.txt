@@ -1,0 +1,24 @@
+=== POLL ANALYSIS SUMMARY ===
+
+Total Responses: 800
+Average Satisfaction: 3.65
+Top Technology: Python
+
+Tech Distribution (%):
+Primary_Tech_Stack
+Python        38.375
+Javascript    26.250
+Java          16.000
+C++           10.000
+R              9.375
+Name: proportion, dtype: float64
+
+Region Satisfaction:
+Region
+Asia-Pacific     3.783133
+Middle East      3.736842
+Europe           3.614035
+Africa           3.609756
+North America    3.517007
+Name: Satisfaction_Score, dtype: float64
+
